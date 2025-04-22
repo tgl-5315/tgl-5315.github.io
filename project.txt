@@ -122,6 +122,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"1187",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -138,7 +151,6 @@
 }
 ,
 "question":{
-"interactionId":"1197",
 "quizId":-1,
 "text":"",
 "type":"graded",
@@ -194,6 +206,7 @@
 }
 ,
 "question":{
+"interactionId":"1229",
 "quizId":-1,
 "text":"",
 "type":"graded",
@@ -310,19 +323,6 @@
 "subtype":"button"
 }
 ,
-"question":{
-"interactionId":"3008",
-"quizId":-1,
-"text":"",
-"type":"graded",
-"interactionType":"choice",
-"score":{
-"weight":1,
-"penalty":0
-}
-
-}
-,
 "textData":{
 }
 
@@ -395,7 +395,6 @@
 }
 ,
 "question":{
-"interactionId":"3050",
 "quizId":-1,
 "text":"",
 "type":"graded",
@@ -630,7 +629,7 @@
 {
 "id":"si1566",
 "class":"TODO::Senthil",
-"instance":"image1(2)",
+"instance":"Bunyoro-Buganda",
 "roles":{
 "click":{
 "subtype":"button"
@@ -846,7 +845,7 @@
 {
 "id":"si1693",
 "class":"TODO::Senthil",
-"instance":"image2(2)",
+"instance":"a3",
 "roles":{
 "click":{
 "subtype":"button"
@@ -886,19 +885,6 @@
 "roles":{
 "click":{
 "subtype":"button"
-}
-,
-"question":{
-"interactionId":"1716",
-"quizId":-1,
-"text":"",
-"type":"graded",
-"interactionType":"choice",
-"score":{
-"weight":1,
-"penalty":0
-}
-
 }
 ,
 "textData":{
@@ -945,7 +931,6 @@
 }
 ,
 "question":{
-"interactionId":"1736",
 "quizId":-1,
 "text":"",
 "type":"graded",
@@ -1062,7 +1047,7 @@
 {
 "id":"si1817",
 "class":"TODO::Senthil",
-"instance":"image3(2)",
+"instance":"images",
 "roles":{
 "click":{
 "subtype":"button"
@@ -1278,7 +1263,7 @@
 {
 "id":"si1941",
 "class":"TODO::Senthil",
-"instance":"image4(2)",
+"instance":"1_XewKQcCxNGhSiX2Mm6NyiA",
 "roles":{
 "click":{
 "subtype":"button"
@@ -1412,19 +1397,6 @@
 "subtype":"button"
 }
 ,
-"question":{
-"interactionId":"2008",
-"quizId":-1,
-"text":"",
-"type":"graded",
-"interactionType":"choice",
-"score":{
-"weight":1,
-"penalty":0
-}
-
-}
-,
 "textData":{
 }
 
@@ -1494,7 +1466,7 @@
 {
 "id":"si2065",
 "class":"TODO::Senthil",
-"instance":"image5(2)",
+"instance":"1920px-The_White_Elephant__Punch_103",
 "roles":{
 "click":{
 "subtype":"button"
@@ -1750,19 +1722,6 @@
 "roles":{
 "click":{
 "subtype":"button"
-}
-,
-"question":{
-"interactionId":"2212",
-"quizId":-1,
-"text":"",
-"type":"graded",
-"interactionType":"choice",
-"score":{
-"weight":1,
-"penalty":0
-}
-
 }
 ,
 "textData":{
@@ -2108,7 +2067,7 @@
 {
 "id":"si3206",
 "class":"TODO::Senthil",
-"instance":"image1(2)_1",
+"instance":"ug03_05c",
 "roles":{
 "click":{
 "subtype":"button"
@@ -2324,7 +2283,7 @@
 {
 "id":"si3328",
 "class":"TODO::Senthil",
-"instance":"image2(2)_1",
+"instance":"Uganda-independence-OBOTE-taking-the-oath",
 "roles":{
 "click":{
 "subtype":"button"
@@ -2540,7 +2499,7 @@
 {
 "id":"si3450",
 "class":"TODO::Senthil",
-"instance":"image3(2)_1",
+"instance":"e6bd8a7af5_idi-amin",
 "roles":{
 "click":{
 "subtype":"button"
@@ -2756,7 +2715,7 @@
 {
 "id":"si3572",
 "class":"TODO::Senthil",
-"instance":"image4(2)_1",
+"instance":"ap20042506001083_slide-cffdfa8a06994c42598e86382fecb246fddb59c3",
 "roles":{
 "click":{
 "subtype":"button"
