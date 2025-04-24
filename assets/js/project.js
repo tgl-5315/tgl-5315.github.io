@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:9361,
-to:9450,
+from:9451,
+to:9540,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -1337,8 +1337,8 @@ visible:'1'
 si3976:{
 name:'Paragraph_1',
 type:1268,
-from:4591,
-to:4680,
+from:9541,
+to:9630,
 rp:0,
 rpa:0,
 mdi:'si3976c',
@@ -1505,8 +1505,8 @@ vb:[-1,-1,1,1]
 si3984:{
 name:'Paragraph_Group_1',
 type:1268,
-from:4591,
-to:4680,
+from:9541,
+to:9630,
 rp:0,
 rpa:0,
 mdi:'si3984c',
@@ -2150,8 +2150,8 @@ vb:[-1,-1,2,2]
 si4022:{
 name:'Button_48',
 type:29,
-from:901,
-to:990,
+from:9541,
+to:9630,
 rp:0,
 rpa:0,
 mdi:'si4022c',
@@ -2179,6 +2179,7 @@ efph:{
 }
 ,
 eflh:[],
+oca:'{"scripts":[{"then":[["cp.jumpToNextSlide(12731);"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -2615,8 +2616,8 @@ vb:[-2,-2,-1,-1]
 Slide3954:{
 lb:'Course Objectives',
 id:3954,
-from:4591,
-to:4680,
+from:9541,
+to:9630,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -2666,7 +2667,14 @@ se:false
 ,
 bookmarks:[]
 ,
-qs:''
+qs:'',
+iph:{
+12731:{
+ts:''
+}
+
+}
+
 },
 Slide3954c:{
 b:[0,0,0,0],
@@ -4791,8 +4799,8 @@ visible:'1'
 si12548:{
 name:'Image_4',
 type:1268,
-from:8731,
-to:8820,
+from:9631,
+to:9720,
 rp:0,
 rpa:0,
 mdi:'si12548c',
@@ -4959,8 +4967,8 @@ vb:[-1,-1,1,1]
 si12556:{
 name:'Image_Group_4',
 type:1268,
-from:8731,
-to:8820,
+from:9631,
+to:9720,
 rp:0,
 rpa:0,
 mdi:'si12556c',
@@ -5491,8 +5499,8 @@ vb:[-1,-1,1,1]
 si12604:{
 name:'Button_170',
 type:29,
-from:8731,
-to:8820,
+from:9631,
+to:9720,
 rp:0,
 rpa:0,
 mdi:'si12604c',
@@ -5520,6 +5528,7 @@ efph:{
 }
 ,
 eflh:[],
+oca:'{"scripts":[{"then":[["cp.jumpToNextSlide(12738);"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -5946,8 +5955,8 @@ vb:[-2,-2,150,30]
 Slide4189:{
 lb:'Geog _ Enviro 1',
 id:4189,
-from:8731,
-to:8820,
+from:9631,
+to:9720,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -5997,7 +6006,14 @@ se:false
 ,
 bookmarks:[]
 ,
-qs:''
+qs:'',
+iph:{
+12738:{
+ts:''
+}
+
+}
+
 },
 Slide4189c:{
 b:[0,0,0,0],
@@ -6024,8 +6040,8 @@ visible:'1'
 si12652:{
 name:'Character_Block_1',
 type:1268,
-from:8821,
-to:8910,
+from:9721,
+to:9810,
 rp:0,
 rpa:0,
 mdi:'si12652c',
@@ -6364,8 +6380,8 @@ vb:[-1,-1,1,1]
 si12682:{
 name:'Character_Group_2',
 type:1268,
-from:8821,
-to:8910,
+from:9721,
+to:9810,
 rp:0,
 rpa:0,
 mdi:'si12682c',
@@ -7024,8 +7040,8 @@ vb:[-2,-2,150,30]
 si12710:{
 name:'Button_173',
 type:29,
-from:8821,
-to:8910,
+from:9721,
+to:9810,
 rp:0,
 rpa:0,
 mdi:'si12710c',
@@ -7053,6 +7069,7 @@ efph:{
 }
 ,
 eflh:[],
+oca:'{"scripts":[{"then":[["cp.jumpToNextSlide(12745);"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -7179,8 +7196,8 @@ vb:[-2,-2,-1,-1]
 Slide4211:{
 lb:'Geog_Enviro 2',
 id:4211,
-from:8821,
-to:8910,
+from:9721,
+to:9810,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -7230,7 +7247,14 @@ se:false
 ,
 bookmarks:[]
 ,
-qs:''
+qs:'',
+iph:{
+12745:{
+ts:''
+}
+
+}
+
 },
 Slide4211c:{
 b:[0,0,0,0],
