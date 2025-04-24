@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:3061,
-to:3150,
+from:4321,
+to:4410,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -83,8 +83,8 @@ visible:'1'
 si1135:{
 name:'Image_1',
 type:1268,
-from:811,
-to:900,
+from:4411,
+to:4500,
 rp:0,
 rpa:0,
 mdi:'si1135c',
@@ -251,8 +251,8 @@ vb:[-1,-1,1,1]
 si1143:{
 name:'Image_Group_1',
 type:1268,
-from:811,
-to:900,
+from:4411,
+to:4500,
 rp:0,
 rpa:0,
 mdi:'si1143c',
@@ -426,10 +426,10 @@ vbwr:[-1,-1,1,1],
 vb:[-1,-1,1,1]
 },
 si1154:{
-name:'uganda_flag_loop_high_quality',
+name:'Flag_of_Uganda',
 type:15,
-from:811,
-to:900,
+from:4411,
+to:4500,
 rp:0,
 rpa:0,
 mdi:'si1154c',
@@ -478,10 +478,10 @@ o:1
 o:100,
 tiletype:0,
 imageFocus:0,
-irw:1024,
-irh:576,
-w:1024,
-h:576,
+irw:345,
+irh:230,
+w:345,
+h:230,
 x:0,
 y:0
 }
@@ -505,7 +505,7 @@ siq:false,
 isDD:false
 },
 si1154c:{
-b:[0,0,1024,576],
+b:[0,0,345,230],
 fh:false,
 fw:false,
 uid:1154,
@@ -592,7 +592,7 @@ ipiv:1
 }
 ,
 sr:cp.fd,
-ip:'dr/04164.gif',
+ip:'dr/08114.gif',
 dn:'si1154',
 visible:1,
 effectiveVi:1,
@@ -605,8 +605,8 @@ ss:0,
 sa:1,
 se:false,
 o:100,
-vbwr:[-1,-1,1025,577],
-vb:[-1,-1,1025,577]
+vbwr:[-1,-1,346,231],
+vb:[-1,-1,346,231]
 },
 si1166:{
 name:'Image_Group_Text_1',
@@ -1245,8 +1245,8 @@ vb:[-2,-2,-1,-1]
 Slide1113:{
 lb:'Welcome Screen',
 id:1113,
-from:811,
-to:900,
+from:4411,
+to:4500,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -84365,11 +84365,20 @@ ipiv:{
 }
 
 }
+,{
+ip:'dr/08114.gif',
+ipiv:{
+430:1,
+768:1,
+1366:1
+}
+
+}
 ];
 cp.model.imageresources=[{
 slideID:0,
 ResourceList:{
-resources:['dr/02959.svg','dr/04164.gif','dr/0596.svg']
+resources:['dr/02959.svg','dr/0596.svg','dr/08114.gif']
 }
 
 }

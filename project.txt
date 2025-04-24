@@ -52,7 +52,7 @@
 {
 "id":"si1154",
 "class":"TODO::Senthil",
-"instance":"uganda_flag_loop_high_quality",
+"instance":"Flag_of_Uganda",
 "roles":{
 "click":{
 "subtype":"button"
