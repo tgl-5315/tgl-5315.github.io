@@ -699,7 +699,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide12747q14"
+"question":"Slide12747q19"
 }
 ,
 "textData":{
@@ -1046,7 +1046,7 @@
 "type":"knowledgeCheck",
 "interactionType":"choice",
 "ramdomized":false,
-"correctAnswers":["si13065"]
+"correctAnswers":[]
 }
 
 }
@@ -1294,7 +1294,7 @@
 {
 "id":"si17325",
 "class":"TODO::Senthil",
-"instance":"ImageCarousel_1(2)",
+"instance":"Source-Victoria-Nile-Uganda-Jinja_jpg",
 "roles":{
 "click":{
 "subtype":"button"
@@ -1448,7 +1448,7 @@
 {
 "id":"si17449",
 "class":"TODO::Senthil",
-"instance":"ImageCarousel_2(2)",
+"instance":"IMG_4584(2)",
 "roles":{
 "click":{
 "subtype":"button"
@@ -1615,7 +1615,7 @@
 {
 "id":"si17573",
 "class":"TODO::Senthil",
-"instance":"ImageCarousel_3(2)",
+"instance":"gorilla-trekking-uganda-family-gorillas_jpg",
 "roles":{
 "click":{
 "subtype":"button"
@@ -7140,7 +7140,7 @@
 {
 "id":"si19525",
 "class":"TODO::Senthil",
-"instance":"VideoPlaceholder_1",
+"instance":"Web_Video_1",
 "video":{
 "title":"Video title- NI",
 "uri":"Video title- NI",
@@ -7385,7 +7385,7 @@
 "children":[],
 "roles":{
 "slide":{
-"durationInFrames":90
+"durationInFrames":35580
 }
 ,
 "navigation":{
@@ -7528,7 +7528,7 @@
 {
 "id":"si19708",
 "class":"TODO::Senthil",
-"instance":"default_image1(4)",
+"instance":"th",
 "roles":{
 "click":{
 "subtype":"button"
@@ -7690,7 +7690,7 @@
 {
 "id":"si19816",
 "class":"TODO::Senthil",
-"instance":"default_image2(4)",
+"instance":"upc",
 "roles":{
 "click":{
 "subtype":"button"
@@ -7865,7 +7865,7 @@
 {
 "id":"si19924",
 "class":"TODO::Senthil",
-"instance":"default_image3(4)",
+"instance":"Uganda-independence-OBOTE-taking-the-oath_1",
 "roles":{
 "click":{
 "subtype":"button"
@@ -8027,7 +8027,7 @@
 {
 "id":"si20032",
 "class":"TODO::Senthil",
-"instance":"default_image4(4)",
+"instance":"UG-flag(2)",
 "roles":{
 "click":{
 "subtype":"button"
@@ -10391,7 +10391,7 @@
 "type":"knowledgeCheck",
 "interactionType":"choice",
 "ramdomized":false,
-"correctAnswers":["si13497"]
+"correctAnswers":[]
 }
 
 }
@@ -18608,7 +18608,7 @@
 "branched":false,
 "submitAll":false,
 "review":true,
-"questions":["Slide10846q11","Slide11142q11","Slide11488q12","Slide11784q13","Slide12747q14","Slide13656q15","Slide14010q19","Slide18495q17","Slide20476q18","Slide20829q19","Slide4593q11","Slide5144q9","Slide5440q9","Slide5763q9","Slide6148q9","Slide6444q9","Slide6740q19","Slide7036q9","Slide7332q19","Slide7655q9"],
+"questions":["Slide10846q11","Slide11142q11","Slide11488q12","Slide11784q13","Slide12747q19","Slide13656q19","Slide14010q19","Slide18495q17","Slide20476q18","Slide20829q19","Slide4593q11","Slide5144q9","Slide5440q9","Slide5763q9","Slide6148q9","Slide6444q9","Slide6740q19","Slide7036q9","Slide7332q19","Slide7655q9"],
 "minScore":0,
 "maxScore":100,
 "passScore":80
@@ -18652,11 +18652,6 @@
 ,
 "exitNormalIfCompleted":false
 }
-,"eventVideos":[{
-"id":"si19525",
-"uri":"vr/Vi19514.mp4"
-}
-]
 ,"toc":[{
 "id":"Slide1113",
 "title":"Welcome Screen"
